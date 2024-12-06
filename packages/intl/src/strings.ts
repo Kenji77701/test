@@ -2437,5 +2437,13 @@ Use this if changes from other devices are not appearing on this device. This wi
   releaseTrack: () => t`Release track`,
   releaseTrackDesc: () => t`Select the release track for Notesnook.`,
   stable: () => t`Stable`,
-  beta: () => t`Beta`
+  beta: () => t`Beta`,
+  viewAllLimits: () => `View all limits`,
+  freePlan: () => t`Free plan`,
+  proPlan: () => t`Pro plan`,
+  essentialPlan: () => t`Essential plan`,
+  believerPlan: () => t`Believer plan`,
+  storage: () => t`Storage`,
+  used: () => t`used`,
+  editProfile: () => t`Edit profile`
 };
