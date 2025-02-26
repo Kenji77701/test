@@ -672,6 +672,10 @@ msgstr ""
 msgid "Add notebook"
 msgstr ""
 
+#: src/strings.ts:2453
+msgid "Add notes"
+msgstr ""
+
 #: src/strings.ts:480
 msgid "Add notes to {title}"
 msgstr ""
@@ -698,6 +702,10 @@ msgstr "<<<<<<< HEAD"
 
 #: src/strings.ts:2229
 msgid "Add to dictionary"
+msgstr ""
+
+#: src/strings.ts:2451
+msgid "Add to notebook"
 msgstr ""
 
 #: src/strings.ts:963
@@ -3956,6 +3964,10 @@ msgstr ""
 #: src/strings.ts:296
 #: src/strings.ts:1506
 msgid "Notebook"
+msgstr ""
+
+#: src/strings.ts:2452
+msgid "Notebook added"
 msgstr ""
 
 #: src/strings.ts:306

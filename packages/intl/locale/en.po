@@ -672,6 +672,10 @@ msgstr "Add color"
 msgid "Add notebook"
 msgstr "Add notebook"
 
+#: src/strings.ts:2453
+msgid "Add notes"
+msgstr "Add notes"
+
 #: src/strings.ts:480
 msgid "Add notes to {title}"
 msgstr "Add notes to {title}"
@@ -699,6 +703,10 @@ msgstr "Add tags to multiple notes at once"
 #: src/strings.ts:2229
 msgid "Add to dictionary"
 msgstr "Add to dictionary"
+
+#: src/strings.ts:2451
+msgid "Add to notebook"
+msgstr "Add to notebook"
 
 #: src/strings.ts:963
 msgid "Add your first note"
@@ -3977,6 +3985,10 @@ msgstr "notebook"
 #: src/strings.ts:1506
 msgid "Notebook"
 msgstr "Notebook"
+
+#: src/strings.ts:2452
+msgid "Notebook added"
+msgstr "Notebook added"
 
 #: src/strings.ts:306
 msgid "notebooks"
